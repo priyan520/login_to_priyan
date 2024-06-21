@@ -1,0 +1,258 @@
+*
+{
+    margin: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.container
+{
+    text-align: center;
+}
+.main_div
+{  
+    border: 1px solid black;
+    width: 575px;
+    margin: auto;
+}
+.color
+{
+    /* background-color: #9A9592; */
+}
+.h_top
+{
+    border-bottom: 1px solid black;
+}
+.h_second
+{
+    border-bottom: 1px solid black;
+}
+.stu
+{
+    border-right: 1px solid black;
+    padding: 0.1cm 0.5cm;
+} 
+.d-1 , .d-2 , .d-3 , .d-4 , .d-11 , .d-main , .d-12
+{
+    display: flex;
+    border-bottom: 1px solid black;
+}
+.ddb , .ddb1 , .d-4 .mark , .d-11 .com , .d-12 .com , .d-14 .com
+{
+    border-right: 1px solid black;
+    padding: 0.1cm 0.5cm;
+}
+.d-5 , .d-6 , .d-7 , .d-10
+{
+    border-right: 1px solid black;
+}
+.d-5 .mark h5
+{
+    text-align: left;
+}
+.d-main
+{
+    display: flex;
+}
+ .flex
+ {
+    display: flex;
+ }
+ .b-b
+ {
+    border-bottom: 1px solid black;
+ }
+ .line_short
+ {
+    width: 120.94488189px;
+    height: 1.2px;
+    background-color: black;
+ }
+ .d-15 .color p h5
+ {
+    margin: 0px !important;
+ }
+ .logo img
+ {
+    width: 70px;
+    margin-top: 3.77px;
+    margin-left: 7.5590551181px;
+    margin-right: 1.6cm;
+ }
+ .name h3
+ {
+    margin-top: 0.2cm;
+    margin-bottom: 0.2cm;
+    margin-right: 1.2cm;
+ }
+ .name p
+ {
+    margin-bottom: 0.3cm;
+ }
+ .h_second h5
+ {
+    margin: 0.2cm 0px;
+ }
+.d-1 .one 
+{
+    margin-left: 0.1cm;
+    margin-top: 0.1cm;
+    margin-bottom: 0.1cm;
+}
+.d-2 .color
+{
+    width: 25%;
+}
+.d-3
+{
+    width: 100%;
+}
+.d-2 .dd1 , .d-3 .ddd1
+{
+    width: 3.8cm;   
+}
+.d-2 .dd2 , .d-3 .ddd2
+{
+    width: 3cm;  
+}
+.d-3 .ddd3
+{
+    width: 3.8cm;
+}
+.d-2 .dd4 , .d-3 .ddd4
+{
+    width: 3.8cm;  
+    padding-left: 51px;
+}
+.ddd4 , .dd4 , .d-4 .sub4
+{
+    border-right: 0px;
+}
+.d-1 .stu
+{
+    width: 3.8cm;
+}
+.d-4 .sub2
+{
+    width: 2.79cm;
+    padding: 0px;
+}
+.d-4 .sub3
+{
+    width: 3cm;
+    padding: 0px;
+}
+.d-4 .sub1
+{
+    width: 9.45cm;
+}
+.d-4 .sub2
+{
+    /* word-wrap: nowrap; */
+}
+.d-5 .mark
+{
+    width: 8.2cm;
+    text-align: left;
+}
+.main_div
+{
+    position: relative;
+    margin-top: 20px;
+}
+.symbol img
+{
+    width: 3cm;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: rotate(10deg) translate(12.5px , 0px); 
+} 
+.d-6
+{
+    width: 2.37cm;
+    padding: 0px;
+    padding-top: 4px;
+}
+.d-5 
+{
+    width: 8.23cm;
+    font-size: 13px;
+    padding-left: 4px;
+    padding-top: 4px;
+}
+.d-5 .mark+.mark
+{
+    padding-top: 6px;
+}
+.d-main .mark+.mark
+{
+    padding-top: 6px;
+}
+.d-7
+{
+    width: 2.56cm;
+    padding: 0px;
+    padding-top: 4px;
+}
+.d-10
+{
+    width: 2.01cm;
+    padding: 0px;
+    border-right: 0px;  
+    padding-top: 4px;
+    margin-bottom: 2cm;
+}
+.d-main .mark
+{
+    font-size: 13px;
+}
+.d-11 .com
+{
+    padding: 0px;
+    padding-top: .1cm;
+    text-align: center;
+}
+.d-11 .com1
+{
+    width: 2.26cm;
+}
+.d-11 .com2
+{
+    width: 7.47cm;
+}
+.d-11 .com3
+{
+    width: 3.7cm;
+}
+.d-11 .com4
+{
+    border-right: 0px;
+    width: 1.75cm;
+}
+.d-12 .com1
+{
+    width: 2.26cm;
+}
+.d-12 .com2
+{
+    width: 7.47cm;
+}
+.d-12 .com3
+{
+    width: 3.7cm;
+}
+.d-12 .com4
+{
+    border-right: 0px;
+    width: 1.75cm;
+}
+.d-4
+{
+    margin-top: .13cm;
+    border-top: 1px solid black;
+}
+.d-11
+{
+    margin-top: .13cm;
+    border-top: 1px solid black;   
+}
